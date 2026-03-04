@@ -4,8 +4,7 @@ This repository contains notes from my cybersecurity journey.
 
 ## Platforms
 - TryHackMe
-- Udemy
+- Offensive / Defensive labs
 - Azure (AZ-900)
 
-## Goal
-Become a Cloud Security Architect.
+## Learning something new everyday. 
